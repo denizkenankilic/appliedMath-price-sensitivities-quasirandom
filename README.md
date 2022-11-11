@@ -1,7 +1,7 @@
 # appliedMath-price-sensitivities-quasirandom
 Price Sensitivities &amp; Quasirandom Numbers
 
-In this repository there are explanations and scripts of two important topics used in methods of computational finance. Stated two topics, whose details are given in the presentation file "**americanop&pricesen.pdf**" , are:
+This repository contains explanations and scripts of two important topics used in methods of computational finance. Stated two topics, whose details are given in the presentation file "**americanop&pricesen.pdf**" , are:
 * **Monte Carlo calculation of option price sensitivities**
 
   Price sensitivities are calculated according to different metrics and each sensitivity calculation is associated with an unique Greek symbol. The most popular      Greeks are obtained from the Black-Scholes formula.
